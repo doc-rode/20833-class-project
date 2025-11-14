@@ -6,4 +6,8 @@ Hey Brad!
 
 comment 918
 
+<<<<<<< HEAD
 writing comment but not sending it yet
+=======
+Curt's weighing at 9:22
+>>>>>>> 94091acdb6a8a4c3d72b16d0162d08e73756cbde
