@@ -1,1 +1,3 @@
 testing GH connection
+
+adding some text to the text file
